@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <circle cx="133.02" cy="115.04" r="40" fill="#c0cfd8" />
+  <rect x="10" y="28" width="75" height="75" rx="6" fill="#c0cfd8" />
+  <polyline points="94.32 17.51 90 15 85.68 17.51" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" />
+  <line x1="80.89" y1="20.3" x2="32.22" y2="48.6" fill="none" stroke="#d250f7" stroke-linejoin="round" stroke-width="5"
+    stroke-dasharray="9.23 5.54" />
+  <polyline points="29.82 49.99 25.5 52.5 25.5 57.5" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" />
+  <line x1="25.5" y1="63.07" x2="25.5" y2="119.71" fill="none" stroke="#d250f7" stroke-linejoin="round" stroke-width="5"
+    stroke-dasharray="9.29 5.57" />
+  <polyline points="25.5 122.5 25.5 127.5 29.82 130.01" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" />
+  <line x1="34.61" y1="132.8" x2="83.28" y2="161.1" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" stroke-dasharray="9.23 5.54" />
+  <polyline points="85.68 162.49 90 165 94.32 162.49" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" />
+  <line x1="99.11" y1="159.7" x2="147.78" y2="131.4" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" stroke-dasharray="9.23 5.54" />
+  <polyline points="150.18 130.01 154.5 127.5 154.5 122.5" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" />
+  <line x1="154.5" y1="116.93" x2="154.5" y2="60.29" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" stroke-dasharray="9.29 5.57" />
+  <polyline points="154.5 57.5 154.5 52.5 150.18 49.99" fill="none" stroke="#d250f7" stroke-linejoin="round"
+    stroke-width="5" />
+  <line x1="145.39" y1="47.2" x2="96.72" y2="18.9" fill="none" stroke="#d250f7" stroke-linejoin="round" stroke-width="5"
+    stroke-dasharray="9.23 5.54" />
+  <polygon points="90 40 47 65 47 115 90 140 133 115 133 65 90 40" fill="#fff" stroke="#183889" stroke-miterlimit="10"
+    stroke-width="10" />
+</svg>
